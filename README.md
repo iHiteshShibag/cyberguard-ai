@@ -20,7 +20,7 @@ cd cyberguard-ai
 npm install
 ```
 
-4. Boot the development lifecycle:
+3. Boot the development lifecycle:
 ```bash
 npm run dev
 ```
